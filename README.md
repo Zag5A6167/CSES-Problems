@@ -50,7 +50,6 @@
 <td>Additional Problems</td>
 <td>0/77</td>
 </tr>
-<tr>
-</tr>
+
 </tbody>
 </table>
