@@ -8,7 +8,7 @@
 <tbody>
 <tr>
 <td>Introductory Problems</td>
-<td>0/19</td>
+<td>1/19</td>
 </tr>
 <tr>
 <td>Sorting and Searching</td>
